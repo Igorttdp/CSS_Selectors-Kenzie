@@ -1,0 +1,53 @@
+:root {
+    --blueSpace: #3662FF;
+    --whiteColor: #FFFFFF;
+    --blackColor: #000;
+    font-family: sans-serif;
+    max-width: 1200px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.AC {
+    text-align: center;
+}
+
+.blue-space {
+    color: var(--blueSpace);
+}
+
+.blue-space-bg {
+    background-color: var(--blueSpace);
+}
+
+.white-color {
+    color: var(--whiteColor);
+}
+
+article.blue-space-bg.white-color {
+    padding: 0.5% 1%;
+}
+
+article p {
+    margin: 0;
+}
+
+.p2 {
+    margin-top: 40px;
+}
+
+ul li {
+    text-decoration: underline;
+}
+
+.black-bg {
+    background-color: var(--blackColor);
+}
+
+.direitos-container {
+    padding: 1% 0;
+}
+
+.direitos-container p {
+    margin: 0;
+}
