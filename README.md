@@ -17,7 +17,7 @@
                 </td>
             </tr>
         </tbody>
-        <tfoot>
+        <tfoot style="text-align: center;">
             <tr>
                 <td>
                     <h4>Versões</h4>
