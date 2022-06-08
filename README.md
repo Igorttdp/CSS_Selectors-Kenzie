@@ -7,13 +7,16 @@
         <thead>
             <tr>
                 <th>V1</th>
-                <!-- <th>V2</th> -->
+                <th>V2</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>
                     <img src="assets/img/CSS_Selectors-V1.png" width="560px" alt="">
+                </td>
+                <td>
+                    <img src="assets/img/v2.gif" width="560px" alt="">
                 </td>
             </tr>
         </tbody>
