@@ -2,27 +2,27 @@
 
 <p>Projeto proposto pela Kenzie Academy para manipular seletores do CSS</p>
 
-    <div>
-        <table style="width: 100%; border:1px solid black; text-align: center;">
-            <thead>
-                <tr>
-                    <th>V1</th>
-                    <!-- <th>V2</th> -->
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>
-                        <img src="assets/img/CSS_Selectors-V1.png" width="560px" alt="">
-                    </td>
-                </tr>
-            </tbody>
-            <tfoot>
-                <tr>
-                    <td>
-                        <h4>Versões</h4>
-                    </td>
-                </tr>
-            </tfoot>
-        </table>
-    </div>
+<div>
+    <table style="width: 100%; border:1px solid black; text-align: center;">
+        <thead>
+            <tr>
+                <th>V1</th>
+                <!-- <th>V2</th> -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="assets/img/CSS_Selectors-V1.png" width="560px" alt="">
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>
+                    <h4>Versões</h4>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
