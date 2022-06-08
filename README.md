@@ -22,7 +22,7 @@
         </tbody>
         <tfoot style="text-align: center;">
             <tr>
-                <td>
+                <td colspan="2">
                     <h4>Versões</h4>
                 </td>
             </tr>
